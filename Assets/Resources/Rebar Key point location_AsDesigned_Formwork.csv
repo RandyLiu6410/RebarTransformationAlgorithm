@@ -1,9 +1,0 @@
-﻿Location,,X,Y,Z,,Notation meaning,
-NW,Top,-721.27 ,260.06 ,350.00 ,,NW,North West
-NE,Top,753.32 ,534.97 ,350.00 ,,NE,North East
-SE,Top,936.59 ,-448.09 ,350.00 ,,SW,South West
-SW,Top,-538.00 ,-723.00 ,350.00 ,,SE,South East
-NW,Bot,-721.27 ,260.06 ,150.00 ,,,
-NE,Bot,753.32 ,534.97 ,150.00 ,,,
-SE,Bot,936.59 ,-448.09 ,150.00 ,,,
-SW,Bot,-538.00 ,-723.00 ,150.00 ,,,
